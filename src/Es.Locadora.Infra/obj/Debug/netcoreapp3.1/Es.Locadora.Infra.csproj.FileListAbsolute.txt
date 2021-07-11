@@ -1,0 +1,14 @@
+C:\dev\projetos\Backend\Locadora\Es.Locadora\src\Es.Locadora.Infra\bin\Debug\netcoreapp3.1\Es.Locadora.Infra.deps.json
+C:\dev\projetos\Backend\Locadora\Es.Locadora\src\Es.Locadora.Infra\bin\Debug\netcoreapp3.1\Es.Locadora.Infra.dll
+C:\dev\projetos\Backend\Locadora\Es.Locadora\src\Es.Locadora.Infra\bin\Debug\netcoreapp3.1\Es.Locadora.Infra.pdb
+C:\dev\projetos\Backend\Locadora\Es.Locadora\src\Es.Locadora.Infra\obj\Debug\netcoreapp3.1\Es.Locadora.Infra.csprojAssemblyReference.cache
+C:\dev\projetos\Backend\Locadora\Es.Locadora\src\Es.Locadora.Infra\obj\Debug\netcoreapp3.1\Es.Locadora.Infra.AssemblyInfoInputs.cache
+C:\dev\projetos\Backend\Locadora\Es.Locadora\src\Es.Locadora.Infra\obj\Debug\netcoreapp3.1\Es.Locadora.Infra.AssemblyInfo.cs
+C:\dev\projetos\Backend\Locadora\Es.Locadora\src\Es.Locadora.Infra\obj\Debug\netcoreapp3.1\Es.Locadora.Infra.csproj.CoreCompileInputs.cache
+C:\dev\projetos\Backend\Locadora\Es.Locadora\src\Es.Locadora.Infra\obj\Debug\netcoreapp3.1\Es.Locadora.Infra.dll
+C:\dev\projetos\Backend\Locadora\Es.Locadora\src\Es.Locadora.Infra\obj\Debug\netcoreapp3.1\Es.Locadora.Infra.pdb
+C:\dev\projetos\Backend\Locadora\Es.Locadora\src\Es.Locadora.Infra\bin\Debug\netcoreapp3.1\Es.Locadora.Domain.Core.dll
+C:\dev\projetos\Backend\Locadora\Es.Locadora\src\Es.Locadora.Infra\bin\Debug\netcoreapp3.1\Es.Locadora.Domain.dll
+C:\dev\projetos\Backend\Locadora\Es.Locadora\src\Es.Locadora.Infra\bin\Debug\netcoreapp3.1\Es.Locadora.Domain.Core.pdb
+C:\dev\projetos\Backend\Locadora\Es.Locadora\src\Es.Locadora.Infra\bin\Debug\netcoreapp3.1\Es.Locadora.Domain.pdb
+C:\dev\projetos\Backend\Locadora\Es.Locadora\src\Es.Locadora.Infra\obj\Debug\netcoreapp3.1\Es.Locadora.Infra.csproj.CopyComplete

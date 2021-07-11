@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fcUv3FRh3CBfgJgtm80e9VRJNY5vwpIpmIjk8ACIS4oOjIp7vyDtbB1wTOd785OR6SbVEr9Nx00rjSy9vV3xXQ==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\projetos\\Backend\\Locadora\\Es.Locadora\\src\\Es.Locadora.Domain.Core\\Es.Locadora.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\134672\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512",
+    "C:\\Users\\134672\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\dev\\projetos\\Backend\\Locadora\\Es.Locadora\\src\\Es.Locadora.Domain\\Es.Locadora.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\dev\\projetos\\Backend\\Locadora\\Es.Locadora\\src\\Es.Locadora.Domain.Core\\Es.Locadora.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\projetos\\Backend\\Locadora\\Es.Locadora\\src\\Es.Locadora.Domain.Core\\Es.Locadora.Domain.Core.csproj",
+        "projectName": "Es.Locadora.Domain.Core",
+        "projectPath": "C:\\dev\\projetos\\Backend\\Locadora\\Es.Locadora\\src\\Es.Locadora.Domain.Core\\Es.Locadora.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\134672\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\projetos\\Backend\\Locadora\\Es.Locadora\\src\\Es.Locadora.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\134672\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://localiza.pkgs.visualstudio.com/DefaultCollection/_packaging/LocalizaAtivos/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Flunt": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\projetos\\Backend\\Locadora\\Es.Locadora\\src\\Es.Locadora.Domain\\Es.Locadora.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\projetos\\Backend\\Locadora\\Es.Locadora\\src\\Es.Locadora.Domain\\Es.Locadora.Domain.csproj",
+        "projectName": "Es.Locadora.Domain",
+        "projectPath": "C:\\dev\\projetos\\Backend\\Locadora\\Es.Locadora\\src\\Es.Locadora.Domain\\Es.Locadora.Domain.csproj",
+        "packagesPath": "C:\\Users\\134672\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\projetos\\Backend\\Locadora\\Es.Locadora\\src\\Es.Locadora.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\134672\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://localiza.pkgs.visualstudio.com/DefaultCollection/_packaging/LocalizaAtivos/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\dev\\projetos\\Backend\\Locadora\\Es.Locadora\\src\\Es.Locadora.Domain.Core\\Es.Locadora.Domain.Core.csproj": {
+                "projectPath": "C:\\dev\\projetos\\Backend\\Locadora\\Es.Locadora\\src\\Es.Locadora.Domain.Core\\Es.Locadora.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
